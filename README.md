@@ -1,0 +1,1 @@
+# frontend.iosolutions-single-price-grid-component
