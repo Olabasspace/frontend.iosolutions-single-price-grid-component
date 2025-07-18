@@ -43,8 +43,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Abdulbasit](https://www.your-site.com)
-- Frontend Mentor - [@olabassapce](https://www.frontendmentor.io/profile/olabasspace)
+- Website - [Abdulbasit](https://olabasspace.github.io/frontend.iosolutions-single-price-grid-component/)
+- Frontend Mentor - [@olabassapce](https://github.com/Olabasspace/frontend.iosolutions-single-price-grid-component)
 - Twitter - [@olaotiabdul](https://www.twitter.com/olaotiabdul)
 
 ## Acknowledgments
